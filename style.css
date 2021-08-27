@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.blok {
+  margin-top: 20vh;
+  background-color: aqua;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 50vh;
+  text-align: center;
+  align-items: center;
+  margin: 50px;
+  padding: 50px;
+}
+.title {
+  margin-top: 20vh;
+}
+.changeNumber1 {
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 10px;
+  width: 25%;
+  cursor: pointer;
+}
+
+.changeNumber2 {
+  background-color: yellow;
+  color: black;
+  border-radius: 10px;
+  width: 25%;
+  cursor: pointer;
+}
+.changeNumber3 {
+  background-color: red;
+  color: aliceblue;
+  border-radius: 10px;
+  width: 25%;
+  cursor: pointer;
+}
