@@ -23,6 +23,7 @@
   color: aliceblue;
   border-radius: 10px;
   width: 25%;
+  height: 5vh;
   cursor: pointer;
 }
 
@@ -31,6 +32,7 @@
   color: black;
   border-radius: 10px;
   width: 25%;
+  height: 5vh;
   cursor: pointer;
 }
 .changeNumber3 {
@@ -38,5 +40,6 @@
   color: aliceblue;
   border-radius: 10px;
   width: 25%;
+  height: 5vh;
   cursor: pointer;
 }
